@@ -11,8 +11,15 @@
     <title>users jsp</title>
 </head>
 <body>
-<h1>users jsp </h1>
+<h1>you are on : users jsp  </h1>
+
 
 <h1>users jsp </h1>
+<ul>
+<li><a href="hello.html">hello.jsp  User List</a></li>
+<li><a href="index.html"> index.html</a></li>
+
+<li><a href="UserServlet">UserServlet List</a></li>
+</ul>
 </body>
 </html>
